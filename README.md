@@ -163,8 +163,7 @@ Through this project, I explored:
 
 ## 👨‍💻 Project
 
-**TripMate AI — Multi-Agent Travel Planner**
+**Rover AI — Multi-Agent Travel Planner**
 
 Built as a hands-on project to explore **Agentic AI, LangGraph, LangChain, and LLM-powered applications**.
->>>>>>> 13dfb28ebc02924de2ed0060d8d83825f2e828a1
 
