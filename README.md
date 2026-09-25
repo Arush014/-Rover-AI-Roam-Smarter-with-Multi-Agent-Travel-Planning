@@ -1,8 +1,8 @@
-# ✈️ TripMate AI
+# ✈️ Rover AI
 
 ### AI-Powered Multi-Agent Travel Planning System
 
-TripMate AI is an AI-powered travel planning application that uses a **multi-agent architecture** to transform a user's travel requirements into a structured and personalized trip plan.
+Rover AI is an AI-powered travel planning application that uses a **multi-agent architecture** to transform a user's travel requirements into a structured and personalized trip plan.
 
 Instead of relying on a single AI agent, the application divides the planning process into specialized tasks such as **flight research, accommodation discovery, itinerary generation, and response preparation**. These agents work together through a **LangGraph-based workflow** to produce a complete travel plan from a simple natural-language request.
 
